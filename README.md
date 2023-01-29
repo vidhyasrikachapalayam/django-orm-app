@@ -44,9 +44,11 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 ### EMPLOYEE DATATBASE
-![Emptable](/images/empdata.png)
+![Screenshot from 2023-01-29 22-12-37](https://user-images.githubusercontent.com/119477817/215340984-04d5a87e-91f5-44ac-8801-42f1eb5bb064.png)
+
 ### Primary key verification
-![Emptable](/images/primary.png)
+![Screenshot from 2023-01-29 22-12-15](https://user-images.githubusercontent.com/119477817/215341001-9bfc8c73-ad0c-4c9f-8a28-77a40cc0ef7e.png)
+
 
 ## RESULT
 Database created successfully.
